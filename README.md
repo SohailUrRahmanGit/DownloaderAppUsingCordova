@@ -20,8 +20,11 @@ Screen Shots Below
 ![4](https://user-images.githubusercontent.com/22540497/175924717-ea4eda26-fca3-424e-a6e3-23394dbacd5d.png)
 
 URL Used to download Zip file 
+
 https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-zip-file.zip
 
 Plugin URLS
+
 https://github.com/MobileChromeApps/cordova-plugin-zip
+
 https://github.com/jjdltc/jjdltc-cordova-plugin-zip
